@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vertex_cover", "vertex_cover\vertex_cover.csproj", "{78803757-8A50-4B4F-BF5D-A8B327B60452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78803757-8A50-4B4F-BF5D-A8B327B60452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78803757-8A50-4B4F-BF5D-A8B327B60452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78803757-8A50-4B4F-BF5D-A8B327B60452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78803757-8A50-4B4F-BF5D-A8B327B60452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7316080E-3E56-4131-8296-4F1646328B8F}
+	EndGlobalSection
+EndGlobal
